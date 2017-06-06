@@ -1,0 +1,8 @@
+h3 {
+    height: 1em;
+    width: 7em;
+    display: block;
+    border: 1px solid black;
+    text-align: center;
+    font-family: bold;
+}
